@@ -1,0 +1,21 @@
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Terraria Launcher by KaMaR\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Terraria Launcher by KaMaR\obj\Debug\Terraria_Launcher_by_KaMaR.Form1.resources
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Terraria Launcher by KaMaR\obj\Debug\Terraria_Launcher_by_KaMaR.Resources.resources
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Terraria Launcher by KaMaR\obj\Debug\Terraria Launcher by KaMaR.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Terraria Launcher by KaMaR\bin\Debug\Terraria Launcher by KaMaR.exe
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Terraria Launcher by KaMaR\bin\Debug\Terraria Launcher by KaMaR.pdb
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Terraria Launcher by KaMaR\bin\Debug\Terraria Launcher by KaMaR.xml
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Terraria Launcher by KaMaR\obj\Debug\Terraria Launcher by KaMaR.exe
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Terraria Launcher by KaMaR\obj\Debug\Terraria Launcher by KaMaR.xml
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Terraria Launcher by KaMaR\obj\Debug\Terraria Launcher by KaMaR.pdb
+C:\Documents and Settings\Kamil\Pulpit\Terraria Launcher by KaMaR\Terraria Launcher by KaMaR\obj\Debug\Terraria Launcher by KaMaR.exe
+C:\Documents and Settings\Kamil\Pulpit\Terraria Launcher by KaMaR\Terraria Launcher by KaMaR\obj\Debug\Terraria Launcher by KaMaR.xml
+C:\Documents and Settings\Kamil\Pulpit\Terraria Launcher by KaMaR\Terraria Launcher by KaMaR\obj\Debug\Terraria Launcher by KaMaR.pdb
+C:\Documents and Settings\Kamil\Pulpit\Terraria Launcher by KaMaR\Terraria Launcher by KaMaR\bin\Debug\Terraria Launcher by KaMaR.exe
+C:\Documents and Settings\Kamil\Pulpit\Terraria Launcher by KaMaR\Terraria Launcher by KaMaR\bin\Debug\Terraria Launcher by KaMaR.pdb
+C:\Documents and Settings\Kamil\Pulpit\Terraria Launcher by KaMaR\Terraria Launcher by KaMaR\bin\Debug\Terraria Launcher by KaMaR.xml
+C:\Documents and Settings\Kamil\Pulpit\Terraria Launcher by KaMaR\Terraria Launcher by KaMaR\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kamil\Pulpit\Terraria Launcher by KaMaR\Terraria Launcher by KaMaR\obj\Debug\Terraria_Launcher_by_KaMaR.Form1.resources
+C:\Documents and Settings\Kamil\Pulpit\Terraria Launcher by KaMaR\Terraria Launcher by KaMaR\obj\Debug\Terraria_Launcher_by_KaMaR.Resources.resources
+C:\Documents and Settings\Kamil\Pulpit\Terraria Launcher by KaMaR\Terraria Launcher by KaMaR\obj\Debug\Terraria_Launcher_by_KaMaR.SplashScreen1.resources
+C:\Documents and Settings\Kamil\Pulpit\Terraria Launcher by KaMaR\Terraria Launcher by KaMaR\obj\Debug\Terraria Launcher by KaMaR.vbproj.GenerateResource.Cache
